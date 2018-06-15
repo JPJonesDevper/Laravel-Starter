@@ -18,7 +18,7 @@
       
       3.4 ใช้คำสั่ง npm install เพื่อติดตั้ง Package ต่าง ๆ (package.json) <br>
       
-      3.5 ทำการแก้ไข File .env ในโปรเจค แก้ไขดังต่อไปนี้
+      3.5 ทำการแก้ไข File .env ในโปรเจค แก้ไขดังต่อไปนี้ <br>
           - สังเกตบรรทักที่ 10 - 12 <br>
           - DB_DATABASE= ใส่ชื่อ db ที่ต้องการเชื่อมต่อ <br>
           - DB_USERNAME= username ของ db <br>
