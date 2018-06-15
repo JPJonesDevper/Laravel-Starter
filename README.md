@@ -30,4 +30,4 @@
           - php artisan migrate ใช้สำหรับสร้าง Table ใน DB <br>
           - php artisan serv & npm run dev หรือ php artisan serv & npm run watch <br>
           
-  4. ทดสอบ: คำสั่ง Run: localhost:8000
+  4. ทดสอบ: localhost:8000
