@@ -5,6 +5,8 @@
   - Laravel 5.6 ศึกษาเพิ่มเติม: https://laravel.com/docs/5.6/
   - VueJS 2.5.7 ศึกษาเพิ่มเติม: https://vuejs.org/v2/guide/
   - UIkit ศึกษาเพิ่มเติม: https://getuikit.com/docs/introduction/
+  - Composer
+  - NodeJS
 
 # Setup
   1. ทำการติดตั้ง Composer สามารถทำการดาวน์โหลด และศึกษาวิธีติดตั้งได้ที่: https://getcomposer.org/
