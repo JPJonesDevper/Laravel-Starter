@@ -10,6 +10,7 @@
   1. ทำการติดตั้ง Composer สามารถทำการดาวน์โหลด และศึกษาวิธีติดตั้งได้ที่: https://getcomposer.org/
   2. ทำการติดตั้ง NodeJS สามารถทำการดาวน์โหลด และศึกษาวิธีติดตั้งได้ที่: https://nodejs.org/en/
   3. หลังจกาทำการ Clone โปรเจคลงมายังเครื่อง Local แล้วให้ทำดังต่อไปนี้
+  
       - เปิด Terminal (Mac , Linux , Ubuntu) หรือ Command (Windows)
       - เข้าไปยังโปรเจคที่ได้ทำการ Clone ลงมายังเครื่อง Local
       - ใช้คำสั่ง composer install เพื่อติดตั้ง Package ต่าง ๆ (composer.json)
